@@ -2,7 +2,7 @@
 
 1. Unzip the file
 2. open powershell/mac terminal and cd to the folder directory
-3. activate the virtual environment using the command ".venv\Scripts\Activate.ps1"
+3. activate your virtual environment containing flask using the command ".venv\Scripts\Activate.ps1"
 4. use command "python app.py" to start the app and flask hosting
 5. click on the local host address to open the Website
 
